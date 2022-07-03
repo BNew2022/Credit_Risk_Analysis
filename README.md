@@ -50,4 +50,4 @@ The purpose of this analysis is to test and compare 6 different machine learning
 
 ## Summary:
 
-As we can see by the results of the Balanced Accuracy Scores, Ensemble learning models are stronger are better at predicting credit risk than resampling models, with the strongest model being the Easy Ensemble AdaBoost Classifier 1t 93.2%.  The weakest model at predicting credit risk was the Undersampling method with a Balanced Accuracy Score of 51.4%.
+As we can see by the results of the Balanced Accuracy Scores, Ensemble learning models are stronger are better at predicting credit risk than resampling models, with the strongest model being the Easy Ensemble AdaBoost Classifier at 93.2%.  The weakest model at predicting credit risk was the Undersampling method with a Balanced Accuracy Score of 51.4%.
