@@ -2,7 +2,7 @@
 
 ## Overview of the Analysis:
 
-The purpose of this analysis is to test and compare 6 different machine learning models and compare the results to determine the most accurate model at predicting credit risk.  We will use two types of models for this analysis; Resampling models and Ensemble models, and try several methods of each model type.
+The purpose of this analysis is to test and compare 6 different machine learning models and compare the results to determine the most accurate model at predicting credit risk.  We will use two types of models for this analysis; Resampling models and Ensemble models, and try several methods of each model type and recommend the best model to use.
 
 ## Results:
 ### Naive Oversampling:
@@ -51,3 +51,5 @@ The purpose of this analysis is to test and compare 6 different machine learning
 ## Summary:
 
 As we can see by the results of the Balanced Accuracy Scores, Ensemble learning models are stronger are better at predicting credit risk than resampling models, with the strongest model being the Easy Ensemble AdaBoost Classifier at 93.2%.  The weakest model at predicting credit risk was the Undersampling method with a Balanced Accuracy Score of 51.4%.
+
+Given this information, it is my recommendation that we use the Easy Ensemble AdaBoost Classifier for the most accurate results.
